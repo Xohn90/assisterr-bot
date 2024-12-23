@@ -1,0 +1,15 @@
+{
+  "name": "assisterr ai-bot",
+  "version": "1.0.0",
+  "description": "assisterr 定时领取",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "airddubot",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
